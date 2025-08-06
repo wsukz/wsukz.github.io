@@ -11,6 +11,48 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <style>
+    body {
+      display: flex;
+      margin: 0;
+      font-family: sans-serif;
+    }
+
+    .sidebar {
+      width: 220px;
+      background: #f4f4f4;
+      padding: 1em;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+    }
+
+    .sidebar ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .sidebar li {
+      margin: 10px 0;
+    }
+
+    .sidebar a {
+      text-decoration: none;
+      color: #007acc;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 2em;
+      background: #ffffff;
+    }
+
+    header img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
   </head>
   <body>
     <div class="wrapper">
