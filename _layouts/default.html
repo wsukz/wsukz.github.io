@@ -63,10 +63,12 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="{{ '/' | relative_url }}">
+            <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          </a>
         {% endif %}
         <ul>
-          <li><a href="/">MAIN</a></li>
+          <li>List of Subjects:/li>
           <li><a href="/subjects/c-language/">Introduction to C</a></li>
           <li><a href="/subjects/python1/">Python I - Fundamentals</a></li>
           <li><a href="/subjects/python2/">Python II - Advanced</a></li>
