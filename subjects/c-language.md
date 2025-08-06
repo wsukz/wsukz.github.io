@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to C Language
+title: "Introduction to C Language"
 permalink: /subjects/c-language/
 ---
 
