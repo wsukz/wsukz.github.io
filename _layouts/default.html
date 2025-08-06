@@ -18,35 +18,19 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <h3>Subjects</h3>
         <ul>
           <li><a href="/c-language/">Introduction to C Language</a></li>
           <li><a href="/python1/">Python I</a></li>
           <li><a href="/python2/">Python II</a></li>
           <li><a href="/ds-algo/">Data Structures & Algorithms</a></li>
         </ul>
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-        {% endif %}
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
-
       {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>Developed by <a>Yergaly</a></p>
         {% endif %}
       </footer>
     </div>
