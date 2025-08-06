@@ -56,7 +56,7 @@ Students select their major track during the sophomore year:
 
 Browse subject-specific repositories, research projects, and student labs in:
 
-- 🖥️ Introduction to Programming (C, Python)
+- 🖥️ Introduction to Programming (C, Python, Java)
 - 🧮 Data Structures & Algorithms
 - 🤖 Artificial Intelligence
 - 📊 Machine Learning & Deep Learning
