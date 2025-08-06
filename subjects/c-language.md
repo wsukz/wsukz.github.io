@@ -14,7 +14,7 @@ This course blends **project-based learning** and **competitive programming** us
 
 ## 📦 Weekly Assignments via GitHub Classroom
 
-- Weekly assignments are released through [GitHub Classroom](https://classroom.github.com/).
+- Weekly assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-pbl-c-language).
 - Each assignment is project-based and tied to that week's lecture topic.
 - Students must:
   - Clone the assignment repository
@@ -30,7 +30,7 @@ This course blends **project-based learning** and **competitive programming** us
 
 ## ⏱️ Weekly Contests via Codeforces
 
-- After each lecture, a **2-hour contest** is hosted on [Codeforces](https://codeforces.com/).
+- After each lecture, a **2-hour contest** is hosted on [Codeforces](https://wsukz.contest.codeforces.com/).
 - Each contest includes:
   - **5 problems**
   - Designed with **IOI-style evaluation**
