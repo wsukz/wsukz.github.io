@@ -1,63 +1,68 @@
-# Woosong University — Department of AI & Big Data
+# Woosong University – Department of AI & Big Data
 
-Welcome to the official GitHub organization of the **Artificial Intelligence & Big Data Department** at **Woosong University**!  
-This organization hosts subject-specific repositories, research projects, and open-source resources related to **Computer Science**, **AI**, **Machine Learning**, **Big Data**, and **Information Technology**.
+Welcome to the official GitHub organization of the **Artificial Intelligence & Big Data Department** at **Woosong University Kazakhstan**.
 
-We are committed to open education, hands-on learning, and advancing knowledge through collaborative projects.
+We are a globally-minded department offering one of the few all-English IT programs in Korea, focused on preparing students for the dynamic future of **Industry 4.0** through hands-on experience, international faculty, and cutting-edge research.
 
+---
 
-## Core Subjects & Repository Topics
+## 🚀 Program Highlights
 
-Explore some of the common subjects and areas covered by our department:
+- 🎓 Specialized majors in **Artificial Intelligence** or **Data Science**
+- 🌍 Global faculty with expertise in **AI, Big Data**, and **Industry 4.0**
+- 🎤 Guest lectures by top industry professionals
+- 💡 Practical training in modern technologies and applications
+- 🧪 Home of the **Software Research Institute** for real-world project experience
 
-### Introduction to Computer Science
- - Fundamental concepts in programming, algorithms, and data structures using Python or Java.
+---
 
-### Artificial Intelligence
- - Covers intelligent agents, search algorithms, logic systems, and foundational AI techniques.
+## 🧠 About the Program
 
-### Machine Learning
- - Supervised, unsupervised, and reinforcement learning with practical projects using scikit-learn, TensorFlow, and PyTorch.
+In today’s data-driven world, our curriculum equips students with the knowledge and skills to thrive in modern tech careers. Through coursework, labs, and research, students explore areas such as:
 
-### Deep Learning
- - Neural networks, CNNs, RNNs, transformers, and advanced applications in image and language processing.
+- Machine Learning & Deep Learning  
+- Big Data Analytics  
+- Software Engineering  
+- Blockchain & FinTech  
+- Robotics & IoT  
+- Cloud Computing  
 
-### Big Data Analytics
- - Scalable data processing with Hadoop, Apache Spark, and cloud-based tools for large-scale analysis.
+Students select their major track during the sophomore year:
+- **Artificial Intelligence Track**
+- **Data Science Track**
 
-### Natural Language Processing (NLP)
-Text mining, sentiment analysis, language modeling, and working with multilingual corpora.
+---
 
-### Computer Vision
- - Image classification, object detection, and face recognition using OpenCV and deep learning.
+## 🎯 Career Prospects
 
-### Database Systems
- - Design and implementation of relational and non-relational databases with SQL and MongoDB.
+### AI Track
+- Software Developer
+- DevOps Engineer
+- Game Developer
+- Blockchain/IoT Engineer
+- Mobile App & Full Stack Developer
 
-### Cloud Computing & DevOps
- - Cloud-native deployment of AI systems using Docker, Kubernetes, CI/CD, and MLOps tools.
+### Data Science Track
+- Data Scientist / Analyst
+- BI Developer
+- Data Engineer
+- ML Engineer
+- Enterprise Architect
 
+---
 
+## 📂 Explore Our Repositories
 
-## Open Source & Educational Focus
+Browse subject-specific repositories, research projects, and student labs in:
 
-We believe in **open-source collaboration** and encourage public contributions and reuse of our materials under appropriate licenses.
+- 🖥️ Introduction to Programming (C, Python)
+- 🧮 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning & Deep Learning
+- 🧠 NLP, Computer Vision, and more
 
-You can visit our GitHub Pages site for interactive content and more information: [**wsukz.github.io**](https://wsukz.github.io) 
+---
 
+📫 Feel free to explore, fork, or contribute to our open-source educational initiatives.
 
-If you're a:
-- Student at Woosong University
-- Instructor or researcher
-- Developer or AI enthusiast
-
-...we welcome your participation! Open issues, start discussions, or contribute to projects—let’s build the future of AI and Big Data together.
-
-
-
-**📧 Contact:** [Department Website](https://www.endicott.ac.kr/page/index.jsp?code=endicott0205)  | Email: [yergali@wsu.ac.kr](yergali@wsu.ac.kr)
-
-
-
-> _"Learning is not the product of teaching. Learning is the product of the activity of learners."_ – John Holt
-
+> _Woosong University – Shaping the future of tech education in Central Asia & beyond._
