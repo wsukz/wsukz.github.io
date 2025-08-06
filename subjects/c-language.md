@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to C Language
-permalink: /c-language/
+permalink: /subjects/c-language/
 ---
 
 # 🧑‍💻 Introduction to C Language
