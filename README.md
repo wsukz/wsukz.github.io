@@ -1,5 +1,4 @@
-# Woosong University
-## Department of AI & Big Data
+# Department of AI & Big Data
 
 Welcome to the official GitHub organization of the **Artificial Intelligence & Big Data Department** at **Woosong University Kazakhstan**.
 
