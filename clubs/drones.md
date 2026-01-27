@@ -16,7 +16,6 @@ Welcome to the WSUK ICPC coding club! Click any image to open the slider:
 {% endfor %}
 </div>
 
-<!-- Slider Modal -->
 <div id="slider-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:1000;">
   <span id="close-slider" style="position:absolute; top:20px; right:30px; font-size:40px; color:white; cursor:pointer;">&times;</span>
   <img id="slider-img" src="" style="max-width:90%; max-height:90%; border-radius:10px;">
@@ -34,7 +33,6 @@ Welcome to the WSUK ICPC coding club! Click any image to open the slider:
   ];
   let currentIndex = 0;
 
-  // Галерея клики
   document.querySelectorAll(".gallery-img").forEach((img, idx) => {
     img.onclick = () => {
       currentIndex = idx;
@@ -43,12 +41,10 @@ Welcome to the WSUK ICPC coding club! Click any image to open the slider:
     };
   });
 
-  // Закрыть modal
   document.getElementById("close-slider").onclick = () => {
     sliderModal.style.display = "none";
   };
 
-  // Навигация
   document.getElementById("prev-btn").onclick = () => {
     currentIndex = (currentIndex - 1 + fotos.length) % fotos.length;
     sliderImg.src = fotos[currentIndex];
@@ -58,28 +54,9 @@ Welcome to the WSUK ICPC coding club! Click any image to open the slider:
     sliderImg.src = fotos[currentIndex];
   };
 
-  // Esc закрытие
   document.addEventListener("keydown", (e) => {
     if(e.key === "Escape") sliderModal.style.display = "none";
   });
 </script>
 
-<style>
-.icpc-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-}
-.icpc-gallery img {
-  width: 200px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: transform 0.2s;
-}
-.icpc-gallery img:hover {
-  transform: scale(1.05);
-}
-</style>
+
