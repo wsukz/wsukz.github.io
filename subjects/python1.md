@@ -28,9 +28,9 @@ Students must:
 - **Copying full solutions or plagiarism is strictly prohibited**
 
 
-## ⏱️ Weekly Contests via Codeforces
+## Weekly Contests via Codeforces
 
-Every week (Weeks 1–12), after the lecture, students participate in a **60-minute contest** on [Codeforces](https://wsukz.contest.codeforces.com/).
+Every week before the lecture, students participate in a **60-minute contest** on [Codeforces](https://wsukz.contest.codeforces.com/).
 
 Each contest includes:
 - **3 problems**
