@@ -12,7 +12,7 @@ This course builds on your **C programming foundation** and focuses on writing c
 
 ## Weekly Projects via GitHub Classroom
 
-Starting from **Week 9**, assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-pbl-c-language).
+Starting from **Week 9**, assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-python). 
 
 Each assignment is a **backend or API-based project** connected to that week’s topic.
 
@@ -79,7 +79,7 @@ Codeforces performance accounts for **50% of your total grade**.
 - **Week 13:** Project Planning & System Design  
 - **Week 14:** Project Development & Mentoring  
 - **Week 15:** Final Project Submission & Demo Day
-- **Week 15:** **Final Exam (Codeforces, 10 problems, 3 hours)**
+- **Week 16:** **Final Exam (Codeforces, 10 problems, 3 hours)**
 
 Students will build a **complete backend application** that could later be extended into AI or Data Science systems.
 
