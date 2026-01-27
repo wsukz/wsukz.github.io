@@ -62,7 +62,7 @@ Codeforces performance accounts for **50% of your total grade**.
 - **Week 5:** Python Standard Library  
 - **Week 6:** Functions, Lambda, Scope, Recursion  
 - **Week 7:** Object-Oriented Programming in Python  
-- **Week 8:** **Midterm Exam (Codeforces, 10 problems, 3 hours)**
+- **Week 8:** **Midterm Exam (10 problems, 3 hours)**
 
 ### 2) Backend Development
 
@@ -76,7 +76,7 @@ Codeforces performance accounts for **50% of your total grade**.
 - **Week 13:** Project Planning & System Design  
 - **Week 14:** Project Development & Mentoring  
 - **Week 15:** Final Project Submission & Demo Day
-- **Week 16:** **Final Exam (Codeforces, 10 problems, 3 hours)**
+- **Week 16:** **Final Exam (10 problems, 3 hours)**
 
 Students will build a **complete backend application** that could later be extended into AI or Data Science systems.
 
@@ -87,6 +87,8 @@ Students will build a **complete backend application** that could later be exten
 - Simple recommendation backend  
 - Notes or blog platform API  
 - Dataset management backend for ML projects  
+
+Students are encouraged to deploy their final project using platforms like **Heroku, Replit, PythonAnywhere, Render, Railway, or similar backend hosting services** so the application can be accessed online.
 
 Consistency is key. Code every week, practice problem-solving, and don’t hesitate to ask questions.
 
