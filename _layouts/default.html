@@ -63,6 +63,28 @@
     margin-left: 1em; 
     margin-top: 1em;
   }
+
+  .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px; /* расстояние между картинками */
+    }
+  
+  .gallery img {
+      width: 200px;         /* все картинки одной ширины */
+      height: 150px;        /* фиксированная высота */
+      object-fit: cover;    /* подгоняем под размер без искажений */
+      border-radius: 10px;
+      cursor: pointer;      /* показывает что можно кликнуть */
+      transition: transform 0.2s;
+    }
+    
+  .gallery img:hover {
+      transform: scale(1.05); /* эффект наведения */
+    }
+
+    
   </style>
   </head>
   <body>
