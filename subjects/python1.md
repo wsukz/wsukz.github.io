@@ -4,19 +4,15 @@ title: "Python I - Fundamentals"
 permalink: /subjects/python1/
 ---
 
-
-# 🐍 Introduction to Python Programming
+# Introduction to Python Programming
 
 Welcome to the **Python Programming course** at Woosong University Kazakhstan — a fast-paced course designed to build practical programming skills and prepare students for backend development, data science, and AI applications.
 
 This course builds on your **C programming foundation** and focuses on writing clean, efficient Python code through **competitive programming** and **project-based learning**.
 
----
+## Weekly Projects via GitHub Classroom
 
-## 📦 Weekly Projects via GitHub Classroom
-
-Starting from **Week 9**, assignments are released through  
-[GitHub Classroom](https://classroom.github.com/classrooms/219947495-pbl-c-language).
+Starting from **Week 9**, assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-pbl-c-language).
 
 Each assignment is a **backend or API-based project** connected to that week’s topic.
 
@@ -31,12 +27,10 @@ Students must:
 - You must understand and be able to explain every line of your code
 - **Copying full solutions or plagiarism is strictly prohibited**
 
----
 
 ## ⏱️ Weekly Contests via Codeforces
 
-Every week (Weeks 1–12), after the lecture, students participate in a **60-minute contest** on  
-[Codeforces](https://wsukz.contest.codeforces.com/).
+Every week (Weeks 1–12), after the lecture, students participate in a **60-minute contest** on [Codeforces](https://wsukz.contest.codeforces.com/).
 
 Each contest includes:
 - **3 problems**
@@ -51,9 +45,7 @@ Each contest includes:
 
 Codeforces performance accounts for **50% of your total grade**.
 
----
-
-## 📝 Evaluation Breakdown
+## Evaluation Breakdown
 
 | Component               | Weight |
 |------------------------|--------|
@@ -61,11 +53,10 @@ Codeforces performance accounts for **50% of your total grade**.
 | GitHub Projects        | 30%    |
 | Final Project          | 20%    |
 
----
 
-## 🛠️ Topics Covered
+## Topics Covered
 
-### 🧠 Python Core
+### 1) Python Core
 
 - **Week 1:** Python Basics, Input/Output, Data Types, Conditionals, Error Handling  
 - **Week 2:** Loops (`for`, `while`), Control Flow  
@@ -76,28 +67,23 @@ Codeforces performance accounts for **50% of your total grade**.
 - **Week 7:** Object-Oriented Programming in Python  
 - **Week 8:** **Midterm Exam (Codeforces, 10 problems, 3 hours)**
 
----
-
-### 🚀 Backend Development
+### 2) Backend Development
 
 - **Week 9:** Intro to Backend, HTTP, APIs, FastAPI Basics  
 - **Week 10:** Request Handling, Pydantic Models, CRUD APIs  
 - **Week 11:** Databases, SQLite, Connecting DB to FastAPI  
 - **Week 12:** Authentication, User Systems, Security Basics  
 
----
-
-### 🏁 Final Project Phase
+### 3) Final Project Phase
 
 - **Week 13:** Project Planning & System Design  
 - **Week 14:** Project Development & Mentoring  
-- **Week 15:** Final Project Submission & Demo Day  
+- **Week 15:** Final Project Submission & Demo Day
+- **Week 15:** **Final Exam (Codeforces, 10 problems, 3 hours)**
 
 Students will build a **complete backend application** that could later be extended into AI or Data Science systems.
 
----
-
-## 💡 Final Project Examples
+## Final Project Examples
 
 - Task management API  
 - Student performance tracker  
@@ -105,10 +91,6 @@ Students will build a **complete backend application** that could later be exten
 - Notes or blog platform API  
 - Dataset management backend for ML projects  
 
----
-
 Consistency is key. Code every week, practice problem-solving, and don’t hesitate to ask questions.
-
----
 
 📫 Questions? Open an Issue in your GitHub Classroom repo or contact the course instructor.
