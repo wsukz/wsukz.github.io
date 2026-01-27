@@ -58,7 +58,7 @@ Codeforces performance accounts for **50% of your total grade**.
 
 ### 1) Python Core
 
-- **Week 1:** Python Basics, Input/Output, Data Types, Conditionals, Error Handling  
+- **Week 1:** Python Basics, Data Types, Conditionals, Error Handling  
 - **Week 2:** Loops (`for`, `while`), Control Flow  
 - **Week 3:** Lists and Strings  
 - **Week 4:** Dictionaries, Sets, Tuples  
