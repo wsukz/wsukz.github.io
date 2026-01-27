@@ -4,7 +4,7 @@ title: "Python I - Fundamentals"
 permalink: /subjects/python1/
 ---
 
-# Introduction to Python Programming
+# Python Programming
 
 Welcome to the **Python Programming course** at Woosong University Kazakhstan — a fast-paced course designed to build practical programming skills and prepare students for backend development, data science, and AI applications.
 
@@ -12,15 +12,13 @@ This course builds on your **C programming foundation** and focuses on writing c
 
 ## Weekly Projects via GitHub Classroom
 
-Starting from **Week 9**, assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-python). 
-
-Each assignment is a **backend or API-based project** connected to that week’s topic.
-
-Students must:
-- Clone the assignment repository  
-- Complete the project within **7 days**  
-- Push the code back to GitHub for **autograding**
-- Be ready to **explain their implementation** if asked
+- Starting from **Week 9**, assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-python). 
+- Each assignment is a **backend or API-based project** connected to that week’s topic.
+- Students must:
+  - Clone the assignment repository  
+  - Complete the project within **7 days**  
+  - Push the code back to GitHub for **autograding**
+  - Be ready to **explain their implementation** if asked
 
 ### ✅ Allowed Tools
 - AI tools (ChatGPT, Copilot, etc.) may be used **only for learning and debugging**
@@ -30,13 +28,12 @@ Students must:
 
 ## Weekly Contests via Codeforces
 
-Every week before the lecture, students participate in a **60-minute contest** on [Codeforces](https://wsukz.contest.codeforces.com/).
-
-Each contest includes:
-- **3 problems**
-- IOI-style evaluation
-- Total score: **300 points**
-- Problems are directly tied to lecture topics (Python syntax, loops, data structures, etc.)
+- Every week before the lecture, students participate in a **60-minute contest** on [Codeforces](https://wsukz.contest.codeforces.com/).
+- Each contest includes:
+  - **3 problems**
+  - IOI-style evaluation
+  - Total score: **300 points**
+  - Problems are directly tied to lecture topics (Python syntax, loops, data structures, etc.)
 
 ### ❌ Restrictions
 - **AI/NLP tools are NOT allowed during contests**
