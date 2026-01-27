@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "WSUK ICPC coding club"
+title: "WSUK ICPC Coding Club"
 permalink: /clubs/icpc/
 ---
 
-# Welcome to Our ICPC Club!
+# Welcome to WSUK ICPC Club!
 
-We are excited to introduce our ICPC Club, where young programmers take their first steps into the world of competitive programming. This year, Wusong University in Turkistan joined ICPC with six first-year teams. Five teams advanced to the quarterfinals, ranking **2nd among new universities** and 15th overall.
+We are excited to introduce our ICPC Club, where young programmers take their first steps into the world of **competitive programming**. This year, Woosong University Kazakhstan (WSUK) in Turkistan joined ICPC with six first-year teams. Five teams advanced to the quarterfinals, ranking **2nd among new universities** and 15th overall.
 
-Our students also competed in the ICPC NERC Finals in Almaty, earning an **honorary certificate**. They enjoyed meeting the wider IT community, gaining experience, and building a strong foundation for future achievements in programming competitions.
+Even though only one team (Code Ventus) from our university was invited to the ICPC NERC Finals in Almaty, they performed very well and received an **honorary certificate**. The experience allowed them to meet the wider IT community, gain valuable skills, and lay a strong foundation for future programming competitions.
   
 ### ICPC 2025 Results
 - [ICPC2025 - 1/8 Qualification Round](https://esep.cpfed.kz/contest/8icpc25/ranking/)
