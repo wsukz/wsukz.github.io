@@ -8,7 +8,14 @@ permalink: /clubs/icpc/
 
 Welcome to the WSUK ICPC coding club! 
 
-[ACMP Ranking](https://acmp.ru/index.asp?main=rating&str=%u0412%u0443%u0441%u043E%u043D%u0433)
+### Training
+- [ACMP Ranking](https://acmp.ru/index.asp?main=rating&str=%u0412%u0443%u0441%u043E%u043D%u0433)
+  
+### ICPC 2025 Results
+
+- [ICPC2025 - 1/8 Qualification Round](https://esep.cpfed.kz/contest/8icpc25/ranking/)
+- [ICPC2025 - 1/4 Regional Round](https://nerc.itmo.ru/archive/2025/kazakhstan/standings.html)
+- [ICPC2025 - 1/2 NERC Finals](https://nerc.itmo.ru/archive/2025/standings-kaz.html)
 
 ### Our ICPC Club:
 
