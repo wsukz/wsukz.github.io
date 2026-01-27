@@ -56,7 +56,10 @@
       max-width: 100%;
       height: auto;
     }
-
+  .menu-title {
+    display: block;
+    margin-left: 40px; 
+  }
   </style>
   </head>
   <body>
@@ -67,7 +70,7 @@
             <img src="{{ site.logo | relative_url }}" alt="Logo" />
           </a>
         {% endif %}
-        <strong>WSUK COURSE CATALOG</strong>
+        <strong class="menu-title">OUR COURSES</strong>
         <ul>
           <li><a href="/subjects/c-language/">Introduction to C</a></li>
           <li><a href="/subjects/python1/">Python I - Fundamentals</a></li>
