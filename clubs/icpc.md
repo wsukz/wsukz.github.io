@@ -6,9 +6,9 @@ permalink: /clubs/icpc/
 
 # Welcome to Our ICPC Club!
 
-We are excited to introduce our ICPC Club, where young programmers take their first steps into the world of competitive programming. This year, Wusong University in Turkistan joined ICPC with six first-year teams. Five teams advanced to the quarterfinals, ranking 2nd among new universities and 15th overall.
+We are excited to introduce our ICPC Club, where young programmers take their first steps into the world of competitive programming. This year, Wusong University in Turkistan joined ICPC with six first-year teams. Five teams advanced to the quarterfinals, ranking **2nd among new universities** and 15th overall.
 
-Our students also competed in the ICPC NERC Finals in Almaty, earning an honorary certificate. They enjoyed meeting the wider IT community, gaining experience, and building a strong foundation for future achievements in programming competitions.
+Our students also competed in the ICPC NERC Finals in Almaty, earning an **honorary certificate**. They enjoyed meeting the wider IT community, gaining experience, and building a strong foundation for future achievements in programming competitions.
   
 ### ICPC 2025 Results
 - [ICPC2025 - 1/8 Qualification Round](https://esep.cpfed.kz/contest/8icpc25/ranking/)
@@ -19,7 +19,7 @@ Our students also competed in the ICPC NERC Finals in Almaty, earning an honorar
 - [ACMP Ranking](https://acmp.ru/index.asp?main=rating&str=%u0412%u0443%u0441%u043E%u043D%u0433)
 - [Codeforces Ranking](https://codeforces.com/ratings/organization/51681)
 
-### Inside Our ICPC Club
+### Inside ICPC Club
 Check out photos and videos of our teams in action! From practice sessions to competitions, see how our members train, collaborate, and celebrate their achievements in competitive programming.
 
 <div class="gallery">
