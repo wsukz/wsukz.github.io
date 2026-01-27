@@ -10,7 +10,6 @@ Welcome to the **C Language course** at Woosong University Kazakhstan — a foun
 
 This course blends **project-based learning** and **competitive programming** using two platforms:
 
----
 
 ## 📦 Weekly Assignments via GitHub Classroom
 
@@ -26,9 +25,8 @@ This course blends **project-based learning** and **competitive programming** us
 - You may use **AI coding assistants** (e.g., GitHub Copilot, ChatGPT) **only** for **learning purposes**.
 - **Copying or plagiarism** is strictly prohibited. Your work must reflect your own understanding.
 
----
 
-## ⏱️ Weekly Contests via Codeforces
+## Weekly Contests via Codeforces
 
 - After each lecture, a **2-hour contest** is hosted on [Codeforces](https://wsukz.contest.codeforces.com/).
 - Each contest includes:
@@ -53,22 +51,26 @@ This course blends **project-based learning** and **competitive programming** us
 
 All work must be original and demonstrate your personal understanding. Cheating or plagiarism will result in disciplinary action.
 
----
 
-## 🛠️ Topics Covered
+## Topics Covered
 
 - Week 1: Introduction to C / First Program / Input-Output
 - Week 2: Variables, Data Types, and Operators
 - Week 3: Conditional Statements (`if`, `switch`)
 - Week 4: Loops (`for`, `while`, `do-while`)
-- Week 5: Functions
-- Week 6: Arrays
-- Week 7: Strings
-- Week 8: Pointers & Memory
-- Week 9–13: Projects, Structs, File I/O, and Recap
-
-_Stay consistent, code regularly, and don’t hesitate to ask for help when stuck!_
-
----
-
-📫 Questions? Open an Issue in your GitHub Classroom repo or contact the course instructor.
+- Week 5: Arrays
+- Week 6: Strings
+- Week 7: Recap
+- Week 8: Midterm
+- Week 9: Introduction to Github
+- Week 10: Functions
+- Week 11: Files
+- Week 12: Standard Library 
+- Week 13: Pointers & Memory
+- Week 14: Sorting
+- Week 15: Final Exams
+ 
+# Results
+- [Assignments](https://codeforces.com/spectator/ranklist/74fc084b533fb18f7ff579c979d190fc)
+- [Midterm](https://codeforces.com/spectator/ranklist/c3b98a78789cd7b2c2b29b703af27d6c)
+- [Finals](https://codeforces.com/spectator/ranklist/55baec7fd110010db3ec7340edad432b)
