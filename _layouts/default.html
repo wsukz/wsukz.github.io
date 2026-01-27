@@ -63,28 +63,23 @@
     margin-left: 1em; 
     margin-top: 1em;
   }
-
   .gallery {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 10px; /* расстояние между картинками */
-    }
-  
+      gap: 10px;
+  }
   .gallery img {
-      width: 200px;         /* все картинки одной ширины */
-      height: 150px;        /* фиксированная высота */
-      object-fit: cover;    /* подгоняем под размер без искажений */
+      width: 150px;
+      height: 120px;
+      object-fit: cover;
       border-radius: 10px;
-      cursor: pointer;      /* показывает что можно кликнуть */
+      cursor: pointer;
       transition: transform 0.2s;
-    }
-    
+  }
   .gallery img:hover {
-      transform: scale(1.05); /* эффект наведения */
-    }
-
-    
+      transform: scale(1.05);
+  }
   </style>
   </head>
   <body>
