@@ -88,6 +88,6 @@ Students will build a **complete backend application** that could later be exten
 - Notes or blog platform API  
 - Dataset management backend for ML projects  
 
-* Students are encouraged to deploy their final project using platforms like **Heroku, Replit, PythonAnywhere, Render, Railway, or similar backend hosting services** so the application can be accessed online*.
+> _Students are encouraged to deploy their final project using platforms like **Heroku, Replit, PythonAnywhere, Render, Railway, or similar backend hosting services** so the application can be accessed online._
 
 Consistency is key. Code every week, practice problem-solving, and don’t hesitate to ask questions.
