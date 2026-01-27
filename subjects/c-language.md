@@ -61,14 +61,14 @@ All work must be original and demonstrate your personal understanding. Cheating 
 - Week 5: Arrays
 - Week 6: Strings
 - Week 7: Recap
-- Week 8: Midterm
+- **Week 8: Midterm**
 - Week 9: Introduction to Github
 - Week 10: Functions
 - Week 11: Files
 - Week 12: Standard Library 
 - Week 13: Pointers & Memory
 - Week 14: Sorting
-- Week 15: Final Exams
+- **Week 15: Final Exams**
  
 # Results
 - [Assignments](https://codeforces.com/spectator/ranklist/74fc084b533fb18f7ff579c979d190fc)
