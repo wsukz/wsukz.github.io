@@ -8,7 +8,7 @@ permalink: /clubs/icpc/
 
 We are excited to introduce our ICPC Club, where young programmers take their first steps into the world of **competitive programming**. This year, Woosong University Kazakhstan (WSUK) in Turkistan joined ICPC with six first-year teams. Five teams advanced to the quarterfinals, ranking **2nd among new universities** and 15th overall.
 
-Even though one of WSUK teams from our university was invited to the **ICPC NERC Finals** in Almaty, they performed very well and received an **honorary certificate**. 
+Even though, one of WSUK teams was invited to the **ICPC NERC FINALS** in Almaty, they performed very well and received an **honorary certificate**. 
 
 The experience allowed them to meet the wider IT community, gain valuable skills, and lay a strong foundation for future programming competitions.
   
