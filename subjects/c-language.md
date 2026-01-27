@@ -4,14 +4,14 @@ title: "Introduction to C Language"
 permalink: /subjects/c-language/
 ---
 
-# 🧑‍💻 Introduction to C Language
+# Introduction to C Language
 
 Welcome to the **C Language course** at Woosong University Kazakhstan — a foundational programming course designed to build core logic, problem-solving, and algorithmic thinking through practical experience.
 
 This course blends **project-based learning** and **competitive programming** using two platforms:
 
 
-## 📦 Weekly Assignments via GitHub Classroom
+## Weekly Assignments via GitHub Classroom
 
 - Weekly assignments are released through [GitHub Classroom](https://classroom.github.com/classrooms/219947495-pbl-c-language).
 - Each assignment is project-based and tied to that week's lecture topic.
@@ -21,7 +21,7 @@ This course blends **project-based learning** and **competitive programming** us
   - Push the code back to GitHub for **autograding**
 - Assignments are graded automatically, but students must be prepared to **explain their code** during office hours or class.
 
-### ✅ Allowed Tools
+### Allowed Tools
 - You may use **AI coding assistants** (e.g., GitHub Copilot, ChatGPT) **only** for **learning purposes**.
 - **Copying or plagiarism** is strictly prohibited. Your work must reflect your own understanding.
 
@@ -42,7 +42,7 @@ This course blends **project-based learning** and **competitive programming** us
 
 ---
 
-## 📝 Evaluation Breakdown
+## Evaluation Breakdown
 
 | Component               | Weight |
 |------------------------|--------|
@@ -71,6 +71,6 @@ All work must be original and demonstrate your personal understanding. Cheating 
 - **Week 15: Final Exams**
  
 # Results
-- [Assignments](https://codeforces.com/spectator/ranklist/74fc084b533fb18f7ff579c979d190fc)
-- [Midterm](https://codeforces.com/spectator/ranklist/c3b98a78789cd7b2c2b29b703af27d6c)
-- [Finals](https://codeforces.com/spectator/ranklist/55baec7fd110010db3ec7340edad432b)
+- [Assignments - (Fall 2025)](https://codeforces.com/spectator/ranklist/74fc084b533fb18f7ff579c979d190fc)
+- [Midterm - (Fall 2025)](https://codeforces.com/spectator/ranklist/c3b98a78789cd7b2c2b29b703af27d6c)
+- [Finals - (Fall 2025)](https://codeforces.com/spectator/ranklist/55baec7fd110010db3ec7340edad432b)
