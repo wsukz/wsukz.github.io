@@ -6,7 +6,7 @@ We are a globally-minded department offering one of the few all-English IT progr
 
 ---
 
-## 🚀 Program Highlights
+## Program Highlights
 
 - 🎓 Specialized majors in **Artificial Intelligence** or **Data Science**
 - 🌍 Global faculty with expertise in **AI, Big Data**, and **Industry 4.0**
@@ -16,7 +16,7 @@ We are a globally-minded department offering one of the few all-English IT progr
 
 ---
 
-## 🧠 About the Program
+## About the Program
 
 In today’s data-driven world, our curriculum equips students with the knowledge and skills to thrive in modern tech careers. Through coursework, labs, and research, students explore areas such as:
 
@@ -33,7 +33,7 @@ Students select their major track during the sophomore year:
 
 ---
 
-## 🎯 Career Prospects
+## Career Prospects
 
 ### AI Track
 - Software Developer
