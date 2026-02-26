@@ -31,7 +31,7 @@ Participants developed AI-driven solutions across five key directions:
   
 ### Hackathon Results
 
-Out of five teams representing Woosong University Kazakhstan, **two teams — DarkSoup AI and AI Girls** — advanced to the finals, ranking among the Top 25 teams nationwide.
+Out of five teams representing Woosong University Kazakhstan, **two teams - DarkSoup AI and AI Girls** — advanced to the finals, ranking among the Top 25 teams nationwide.
 
 🏅 Both teams were awarded **200,000 KZT certificates** for their outstanding performance.
 
