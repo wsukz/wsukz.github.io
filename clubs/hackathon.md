@@ -6,7 +6,7 @@ permalink: /clubs/hackathon/
 
 # Welcome to WSUK Hackathon Club!
 
-Students of **Woosong University Kazakhstan** actively participate in regional and national hackathons, demonstrating their expertise in artificial intelligence, data analytics, and digital technologies..
+Students of **Woosong University Kazakhstan (WSUK)** actively participate in regional and national hackathons, demonstrating their expertise in artificial intelligence, data analytics, and digital technologies..
 
 ### AI Hackathon Turkistan 2026
 
@@ -31,9 +31,9 @@ Participants developed AI-driven solutions across five key directions:
   
 ### Hackathon Results
 
-Out of five teams representing Woosong University Kazakhstan, **two teams - DarkSoup AI and AI Girls** — advanced to the finals, ranking among the Top 25 teams nationwide.
+Out of five teams representing Woosong University Kazakhstan, **two teams - DarkSoup AI and AI Girls** - advanced to the finals, ranking among the TOP25 teams nationwide.
 
-🏅 Both teams were awarded **200,000 KZT certificates** for their outstanding performance.
+🏅 Both teams were awarded **200'000 KZT certificates** for their outstanding performance.
 
 Their success highlights the growing strength of AI-focused project development at WSUK and confirms our students’ competitiveness on a national level.
 
