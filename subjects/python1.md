@@ -50,6 +50,9 @@ Codeforces performance accounts for **50% of your total grade**.
 | GitHub Projects        | 30%    |
 | Final Project          | 20%    |
 
+## Materials
+[Book - Introduction to Python Programming (2014](https://drive.google.com/file/d/1rAefehvMND-zS9QYRO7ALoA7hMJ7Am4A/view?usp=drive_link)
+
 
 ## Topics Covered
 
