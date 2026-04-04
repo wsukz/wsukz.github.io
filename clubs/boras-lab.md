@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "WSUK Drones Club"
-permalink: /clubs/drones/
+permalink: /clubs/boras-lab/
 ---
 
 # 🧑‍💻 WSUK Drones
