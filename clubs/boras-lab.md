@@ -5,4 +5,4 @@ permalink: /clubs/boras-lab/
 ---
 
 # 🧑‍💻 WSUK - BORAS Lab
-### Business-Oriented Robotics & Autonomous Systems Laboratory
+### Business-Oriented Robotics & Autonomous Systems Lab
