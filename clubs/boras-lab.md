@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "WSUK Drones Club"
+title: "WSUK BORAS Lab"
 permalink: /clubs/boras-lab/
 ---
 
-# 🧑‍💻 WSUK Drones
+# 🧑‍💻 WSUK - Business-Oriented Robotics & Autonomous Systems Lab (BORAS Lab)
