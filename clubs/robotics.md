@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "WSUK Robotics Club"
-permalink: /clubs/robotics/
+title: "SHAIQAS Club"
+permalink: /clubs/shaiqas/
 ---
 
-# 🧑‍💻 WSUK Robotics
+# Shaiqas Championship
