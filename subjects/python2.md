@@ -52,7 +52,9 @@ This course builds directly on your **Python I** foundation (Core Python & Backe
 - **Week 2:** High-Performance NumPy (Vectorization, Broadcasting, N-dimensional arrays) 
 - **Week 3:** Pandas I (DataFrames, Series, Indexing, loading CSV, SQL, API data) 
 - **Week 4:** Pandas II (Data Cleaning: null handling, outliers, merging, pivoting) 
-- **Week 5:** Data Visualization (Matplotlib & Seaborn: crafting Data Stories) 
+- **Week 5:** Data Visualization (Matplotlib & Seaborn: crafting Data Stories)
+
+[HomeWork Yandex](https://contest.yandex.ru/contest/99028) 
 
 ### 2) Baseline ML & Practical Midterm
 
