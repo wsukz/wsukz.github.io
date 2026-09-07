@@ -8,7 +8,7 @@ permalink: /subjects/ds-algo/
 
 Welcome to the **Data Structures & Algorithms** course. This curriculum is structured into 11 core modules, featuring a handpicked collection of LeetCode problems designed to take you from foundational concepts to interview-ready problem-solving skills.
 
-## 801 problems
+## 716 problems
 [leetcode_link](https://leetcode.com/problem-list/dzn00uu3/)
 
 ---
