@@ -56,6 +56,8 @@ This course builds directly on your **Python I** foundation (Core Python & Backe
 
 [HomeWork Yandex](https://contest.yandex.ru/contest/99028) 
 
+[Assingment 1. Numpy](https://codeforces.com/spectator/ranklist/b3ebaea139ba6d3bacfeac78dae34379)
+
 ### 2) Baseline ML & Practical Midterm
 
 - **Week 6:** Intro to Scikit-Learn (Feature Scaling, Categorical Encoding, Train/Test Split) 
