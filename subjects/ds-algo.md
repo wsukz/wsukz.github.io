@@ -33,9 +33,10 @@ Welcome to the **Data Structures & Algorithms** course. This curriculum is struc
 
 
 ## Week1
-[Result of Week1](https://codeforces.com/spectator/ranklist/5017445c692030d89389aa8d94bfa4ba)
+- [Result of Week1](https://codeforces.com/spectator/ranklist/5017445c692030d89389aa8d94bfa4ba)
+- [Result of Week3](https://codeforces.com/spectator/ranklist/b81c629bfba8a5a4781c1b672f070530)
 
 ## Zoom Link:
-[Zoom link](https://us05web.zoom.us/j/81602755262?pwd=bJeBffZTKKtpakaTN9XS1GW5eupbcX.1)
-Meeting ID: 816 0275 5262
-Passcode: wsuk
+- [Zoom link](https://us05web.zoom.us/j/81602755262?pwd=bJeBffZTKKtpakaTN9XS1GW5eupbcX.1)
+- Meeting ID: 816 0275 5262
+- Passcode: wsuk
