@@ -60,6 +60,14 @@ This course builds directly on your **Python I** foundation (Core Python & Backe
 
 [Dataset 1. Titanic](https://wsukz.github.io/assets/datasets/titanic.csv)
 
+#### Linear Algebra (in kazakh)
+- [1-сабақ. Сызықтық алгебра. Матрица. (1:15:59)](https://www.youtube.com/watch?v=NZGwR31_iMM)
+- [2-сабақ. Сызықтық алгебра. Кері матрица. (1:34:42)](https://www.youtube.com/watch?v=QIwl6GDYxD4)
+- [5-сабақ. Сызықтық алгебра. Практика. Python Numpy. (1:06:14)](https://www.youtube.com/watch?v=uvHbtG5W1Fs)
+- [6-сабақ. Геометриялық талдау. Вектор. Норма. Қашықтық. Евклид. Манхэттен. (1:25:05)](https://www.youtube.com/watch?v=1WrusQ-MDrM)
+- [7-сабақ. Геометриялық талдау. Практика. NumPy. (1:14:17)](https://www.youtube.com/watch?v=Yeyh8vDdbqU)
+- [8-сабақ. Статистика. Орта шама. Медиана. Мода. Дисперсия. Стандартты ауытқу. IQR. (1:10:02)](https://www.youtube.com/watch?v=W5id0ewFKyM)
+
 ### 2) Baseline ML & Practical Midterm
 
 - **Week 6:** Intro to Scikit-Learn (Feature Scaling, Categorical Encoding, Train/Test Split) 
