@@ -60,6 +60,8 @@ This course builds directly on your **Python I** foundation (Core Python & Backe
 
 [Dataset 1. Titanic](https://wsukz.github.io/assets/datasets/titanic.csv)
 
+[Example. MatPlotLib](https://drive.google.com/file/d/1U_VRl0YlLn8Vj8a9SdYjZwIzYhWwLTS-/view?usp=drive_link)
+
 #### Linear Algebra (in kazakh)
 - [1-сабақ. Сызықтық алгебра. Матрица. (1:15:59)](https://www.youtube.com/watch?v=NZGwR31_iMM)
 - [2-сабақ. Сызықтық алгебра. Кері матрица. (1:34:42)](https://www.youtube.com/watch?v=QIwl6GDYxD4)
