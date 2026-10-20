@@ -40,3 +40,6 @@ Welcome to the **Data Structures & Algorithms** course. This curriculum is struc
 - [Zoom link](https://us05web.zoom.us/j/81602755262?pwd=bJeBffZTKKtpakaTN9XS1GW5eupbcX.1)
 - Meeting ID: 816 0275 5262
 - Passcode: wsuk
+
+## Useful Resource:
+ - [Udemy Course: Data Structure in Python](https://drive.google.com/drive/u/6/folders/1Z9FgBAHTHfeKzxzVsblKIm2zf0ONo4G8)
