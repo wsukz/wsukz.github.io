@@ -62,7 +62,7 @@ This course builds directly on your **Python I** foundation (Core Python & Backe
 
 [Example. MatPlotLib](https://drive.google.com/file/d/1U_VRl0YlLn8Vj8a9SdYjZwIzYhWwLTS-/view?usp=drive_link)
 
-[Pandas Colab](https://drive.google.com/file/d/1vNX1i98VI_6PdpmM5_9PONHBKjrXNQts/view?usp=sharing)
+[Python 2 - Useful resources](https://drive.google.com/drive/folders/16uEujfSicZGxsmF3MBdrDTZqkhpwv1XG?usp=drive_link)
 
 #### Linear Algebra (in kazakh)
 - [1-сабақ. Сызықтық алгебра. Матрица. (1:15:59)](https://www.youtube.com/watch?v=NZGwR31_iMM)
