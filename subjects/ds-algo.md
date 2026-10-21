@@ -35,6 +35,7 @@ Welcome to the **Data Structures & Algorithms** course. This curriculum is struc
 ## Week1
 - [Result of Week1](https://codeforces.com/spectator/ranklist/5017445c692030d89389aa8d94bfa4ba)
 - [Result of Week3](https://codeforces.com/spectator/ranklist/b81c629bfba8a5a4781c1b672f070530)
+- [Result of Week8](https://codeforces.com/spectator/ranklist/af129b2c26a8bb3eb09fdf3f3c4b56b0)
 
 ## Zoom Link:
 - [Zoom link](https://us05web.zoom.us/j/81602755262?pwd=bJeBffZTKKtpakaTN9XS1GW5eupbcX.1)
