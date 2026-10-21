@@ -43,3 +43,10 @@ Welcome to the **Data Structures & Algorithms** course. This curriculum is struc
 
 ## Useful Resource:
  - [Udemy Course: Data Structure in Python](https://drive.google.com/drive/u/6/folders/1Z9FgBAHTHfeKzxzVsblKIm2zf0ONo4G8)
+
+## Midterm Topics: 
+ - [Basics](https://www.youtube.com/embed/OcbacTSxXIs) 
+ - [Binary Search](https://www.youtube.com/embed/VxLPala0j_w)
+ - [Prefix Sum](https://www.youtube.com/embed/hncEM2BdBl0)
+ - [Two Pointers](https://www.youtube.com/embed/tZeXuaQhchA)
+ - [Stack](https://www.youtube.com/embed/n8rdbaR9dFg)
