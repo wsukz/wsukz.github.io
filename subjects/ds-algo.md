@@ -45,6 +45,7 @@ Welcome to the **Data Structures & Algorithms** course. This curriculum is struc
 
 ## Useful Resource:
  - [Udemy Course: Data Structure in Python](https://drive.google.com/drive/u/6/folders/1Z9FgBAHTHfeKzxzVsblKIm2zf0ONo4G8)
+ - [Dynamic Programming pdf](https://drive.google.com/file/d/1vkralcPKWVaayJ4xdD0cbJ29CnAJlNSe/view)
 
 ## Midterm Topics: 
  - [Basics](https://www.youtube.com/embed/OcbacTSxXIs) 
